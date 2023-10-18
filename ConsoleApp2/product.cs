@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         public int id { get; set; }
         public string name { get; set; }
-        public string mmd { get; set; }
+        public string dugger { get; set; }
 
     }
 }
