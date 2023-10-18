@@ -9,7 +9,8 @@ namespace ConsoleApp2
     internal class product
     {
         public int id { get; set; }
-        public string? name { get; set; }
+        public string name { get; set; }
+        public string mmd { get; set; }
 
     }
 }
